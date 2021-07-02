@@ -47,6 +47,7 @@ class EthereumNetwork(Enum):
     KOVAN = 42
     BINANCE = 56
     XDAI = 100
+    HUOBI = 128
     MATIC = 137
     ENERGY_WEB_CHAIN = 246
     FANTOM = 250
